@@ -2,7 +2,7 @@
 
 ## Description
 
-This project and webpage are a requirement for the UC Berkeley Coding Bootcamp pre-course self study. I did this so I would be better prepared going into the bootcamp, at the suggestion of the orientation material and my Student Success Manager.
+This project and webpage is a requirement for the UC Berkeley Coding Bootcamp pre-course self study. I did this so I would be better prepared going into the bootcamp, at the suggestion of the orientation material and my Student Success Manager.
 
 Building the website deepened my basic understanding of HTML and helped me learn the very basics of CSS and JavaScript, as well as interfacing with GitHub and several key developer tools including GitBash and VS Code.
 
