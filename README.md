@@ -15,7 +15,6 @@ N/A
 
 This website lists basic notes on four different subjects covered: HTML, CSS, Git, and JavaScript. It also has a JavaScript function embedded to randomly suggest an area of study, viewable though browser developer tools in the Console tab. You can use the DevTools tool in Chrome, Safari, or Firefox, and after navigating to the Console tab the JavaScript in the page will randomize one of the four subjects as a suggestion to study.
 
-
 ## Credits
 
 N/A
@@ -26,5 +25,3 @@ Please refer to the MIT LICENSE in the repository.
 
 
 ---
-
-
