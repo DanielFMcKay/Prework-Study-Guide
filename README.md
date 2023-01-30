@@ -25,8 +25,3 @@ Please refer to the MIT LICENSE in the repository.
 
 
 ---
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 7ed486749c7264e2458de83df558db0a9e7c4704
