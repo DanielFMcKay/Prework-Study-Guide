@@ -23,5 +23,3 @@ N/A
 
 Please refer to the MIT LICENSE in the repository.
 
-
----
